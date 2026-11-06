@@ -1,0 +1,82 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content as \"React Hooks\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with the text content as \"Hooks are a new addition to React\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML image element with alt attribute value as \"react hooks\" and src as the given react hooks image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of an HTML paragraph element with the text content as first one hundred and seventy characters from the given reactHooksDescription",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_5",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of an HTML button element with the text content as \"Read More\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_6",
+      "evaluation_result": "CORRECT",
+      "title": "When the app is opened, then the useState Hook from \"react\" should be called",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_7",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Read More\" button is clicked, then the setter function returned from useState Hook should be called",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_8",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Read More\" button is clicked, then the setter function returned from useState Hook should use a callback to update the state",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_9",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Read More\" button is clicked, then the text content of the HTML paragraph element should be changed to the total text from the given reactHooksDescription",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_10",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Read More\" button is clicked, then the text content of the HTML button element should be changed to \"Read Less\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_11",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Read Less\" button is clicked, then the text content of the HTML paragraph element should be changed to the first one hundred and seventy characters from the given reactHooksDescription",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_12",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Read Less\" button is clicked, then the text content of the HTML button element should be changed to \"Read More\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP6BQ39_TEST_13",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content as \"React Hooks\" and have \"font-family\" value as \"Roboto\"",
+      "errorMessages": []
+    }
+  ]
+}
